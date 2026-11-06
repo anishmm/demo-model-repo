@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "format": 2,
+  "file": "models/sms_model_v1.json",
+  "sha256": "90d398f7206cc4b160001061f163904ac57d064744a68ccacdc529deacd22b10",
+  "size": 290434,
+  "released": "2026-11-06",
+  "checks": [
+    {
+      "text": "Cheque no 123456 for INR 5,000.00 has been debited from A/c XX4821. Balance Rs 2,450.00.",
+      "label": "EXPENSE"
+    },
+    {
+      "text": "Cash withdrawal of Rs 50,000.00 using card ending 1234. Balance INR 2,450.00. - AU",
+      "label": "EXPENSE"
+    },
+    {
+      "text": "Credit card bill payment of Rs 12,500.00 from A/c XX4567 successful. Ref UPI261105A1B2.",
+      "label": "EXPENSE"
+    },
+    {
+      "text": "Fund transfer of INR 5,000.00 from A/c XX6321 successful. - AU",
+      "label": "EXPENSE"
+    },
+    {
+      "text": "IMPS: INR 499.00 credited to your A/c XX4821. Ref No UPI261105A1B2. - SBI",
+      "label": "INCOME"
+    },
+    {
+      "text": "Payment received: INR 5,000.00 credited to A/c XX6321. UPI Ref IMPS261105XY89.",
+      "label": "INCOME"
+    },
+    {
+      "text": "Refund of INR 12,500.00 has been credited to your account XX4821. Ref UPI261104QW45.",
+      "label": "INCOME"
+    },
+    {
+      "text": "Canara Bank: Your A/c XX6321 is credited with INR 750.00 on 03-Nov-26. Avl bal INR 8,750.50.",
+      "label": "INCOME"
+    },
+    {
+      "text": "Do not share your PIN, password or OTP with anyone.",
+      "label": "OTHER"
+    },
+    {
+      "text": "Your payment of INR 250.50 is pending. Do not retry until status is confirmed. Ref NEFT2611057788.",
+      "label": "OTHER"
+    },
+    {
+      "text": "Your ICICI Bank credit card ending 1234 statement is generated. Total amount due INR 125.00; pay by 05-Nov-26.",
+      "label": "OTHER"
+    },
+    {
+      "text": "Your monthly e-statement is ready to view. - SBI",
+      "label": "OTHER"
+    }
+  ]
+}
